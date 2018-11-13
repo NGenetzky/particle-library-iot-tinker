@@ -1,4 +1,7 @@
 #pragma once
+
+#include <vector>
+
 namespace iot {
 
 using TinkerFunction = std::function<bool(int, int &)>;
