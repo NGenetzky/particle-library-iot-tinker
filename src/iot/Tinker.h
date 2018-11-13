@@ -1,6 +1,8 @@
 #pragma once
 
 #include <vector>
+#include <functional>
+#include "Arduino.h"
 
 namespace iot {
 
