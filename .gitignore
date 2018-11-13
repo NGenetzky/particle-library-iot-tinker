@@ -2,7 +2,7 @@
 # po
 # https://github.com/nrobinson2000/po/blob/bbb9df3a32ead735026491dd605e11e6b940a64a/share/po-common#L880
 
-bin/*
+bin/
 *.bin
 
 #
